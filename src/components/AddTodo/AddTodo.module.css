@@ -1,0 +1,25 @@
+.container {
+  background: #fff;
+  padding: 0.5rem 1rem;
+}
+
+.textInput {
+  border: 2px solid #ccc;
+  border-radius: 5px 0 0 5px;
+  padding: 0.5rem 0.75rem;
+  border-right: transparent;
+  width: calc(100% - 3.3rem);
+}
+
+.textInput:focus {
+  outline: none;
+  border-color: steelblue;
+}
+
+.btn {
+  border: 2px solid steelblue;
+  background-color: steelblue;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  padding: 0.5rem 0.75rem;
+}

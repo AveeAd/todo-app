@@ -1,0 +1,25 @@
+.todoList {
+  background-color: #fff;
+  padding: 0.5rem 1rem;
+}
+
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-top: 1px solid #ccc;
+}
+
+.title {
+  display: inline;
+  margin: 0 0.25rem;
+}
+
+.striked {
+  text-decoration: line-through;
+}
+
+.check {
+  cursor: pointer;
+}

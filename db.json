@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn ES6",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Learn Webpack",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Learn Redux",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Create ReactJS & Redux Todo App",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.container {
+  background-color: #eee;
+  padding: 1rem;
+}
+.btn {
+  margin: 0 0.2rem;
+  padding: 0.2rem;
+  border: 2px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.btn:active {
+  background-color: #eee;
+}
